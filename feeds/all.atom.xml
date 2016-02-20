@@ -61,7 +61,7 @@
 &lt;h1&gt;Setup&lt;/h1&gt;
 &lt;p&gt;To participate in this workshop, you will need access to the software described below. In addition, you will need an up-to-date web browser.&lt;/p&gt;
 &lt;h2&gt;Data&lt;/h2&gt;
-&lt;p&gt;We will be using data from &lt;a href="http://data.gov/"&gt;data.gov&lt;/a&gt;, specifically &lt;a href="http://catalog.data.gov/dataset/most-popular-baby-names-2009-2013"&gt;the most popular baby names in California from 2009 to 2013&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We will be using data from &lt;a href="http://data.gov/"&gt;data.gov&lt;/a&gt;, specifically &lt;a href="http://web.archive.org/web/20151105125549/http://catalog.data.gov/dataset/most-popular-baby-names-2009-2013"&gt;the most popular baby names in California from 2009 to 2013&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please &lt;a href="https://raw.githubusercontent.com/shirtable/python-novice/b8e2d961a4ee6adc6a3911b6326191105af3a7f8/dat/Most_Popular_Baby_Names__2009-2013.csv"&gt;download the corresponding data&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Text Editor&lt;/h2&gt;
 &lt;p&gt;When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.&lt;/p&gt;
